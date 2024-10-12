@@ -107,5 +107,6 @@ export default defineConfig({
             { icon: 'discord', link: 'https://discord.gg/arvZCMJ7vG' },
             { icon: 'youtube', link: 'https://www.youtube.com/@axtondrej' }
         ]
-    }
+    },
+    cleanUrls: true
 })

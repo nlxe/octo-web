@@ -101,9 +101,9 @@
             <a
                 class="text-white font-semibold text-lg bg-pink-400 dark:bg-pink-500 px-6 py-2.5 rounded-full"
                 id="hero-get-started"
-                href="/"
+                href="/download"
             >
-                Download Now
+                Download (Coming Soon)
             </a>
             <a
                 class="font-semibold text-pink-400 px-8 py-2.5 rounded-3xl bg-pink-400/10 dark:bg-pink-500/25"

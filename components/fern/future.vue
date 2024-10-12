@@ -14,8 +14,8 @@
             <a
                 id="future-get-started"
                 class="font-semibold text-pink-400 px-8 py-2.5 rounded-3xl bg-pink-400/10 dark:bg-pink-500/25"
-                href="/"
-                >Download Now</a
+                href="/download"
+                >Download (Coming Soon)</a
             >
             <a
                 id="future-tutorial"

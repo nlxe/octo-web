@@ -25,6 +25,13 @@
                     user="Green"
                     image="/tweets/green.webp"
                     content="We can't wait for you to join our world and explore what we've built, full of creativity and challenges. Stay tuned for more updates and get ready to forge your adventure!"
+                    href="https://guns.lol/greenbmgo"
+                />
+                <Tweet
+                    id="wynedeutxsch"
+                    user="Wayne"
+                    image="/tweets/wayne.webp"
+                    content="Blockman Go Forge is better than Ultra Go because it offers enhanced modding capabilities and greater creative freedom for players"
                     href=""
                 />
             </div>
@@ -43,13 +50,34 @@
                     content="This is a great game, I will choose Blockman Forge over Blockman GO!"
                     href=""
                 />
+                <Tweet
+                    id="ariefplayzzz"
+                    user="Arief"
+                    image="/tweets/arief.webp"
+                    content="Blockman Forge is the best sandbox game out there also bringing back the nostalgic feel of Blockman GO while offering endless creative possibilities to the game."
+                    href=""
+                />
+                <Tweet
+                    id="uno.raman"
+                    user="R4man"
+                    image="/tweets/uno-raman.webp"
+                    content="I love blockman forge becasue the modern design and gameplay just catches my (and my friend's) eye! The customization options allow for freedom and creativity, the mascots and UI are interesting to say the least. This version is just BETTER than blockman go and i will switch over to Blockman Forge!"
+                    href=""
+                />
             </div>
             <div class="flex flex-col gap-3 lg:mt-6">
                 <Tweet
                     id="zvyne.1"
                     user="Zvyne"
                     image="/tweets/zvyne.webp"
-                    content="Blockman Forge is a step ahead of tradition. Here, you can experience real cross-culture between Minecraft and Blockmango. I'm glad to be an early friend of this lovely mission, supporting this journey !"
+                    content="Blockman forge is at times getting difficulties but still preserving which is making it quite an impeccable team and we also drive to add stuff which quite literally will astonish you by having better security,game play and more"
+                    href=""
+                />
+                <Tweet
+                    id="comicxall"
+                    user="Comical"
+                    image="/tweets/comical.webp"
+                    content="Playing Blockman Forge makes me feel like I'm part of the history of the old Blockman Go, which has ended."
                     href=""
                 />
                 <Tweet
@@ -57,6 +85,13 @@
                     user="Marko"
                     image="/tweets/marko.webp"
                     content="Blockman Forge is a step ahead of tradition. Here, you can experience real cross-culture between Minecraft and Blockmango. I'm glad to be an early friend of this lovely mission, supporting this journey !"
+                    href=""
+                />
+                <Tweet
+                    id="ryu"
+                    user="despacitospiderr"
+                    image="/tweets/ryu.webp"
+                    content="Blockman Forge is a game with its own aesthetic. The game is very good looking if you ask me, the game is very stable and virus-free. Overall I would prefer Blockman Forge rather than the other BG private servers."
                     href=""
                 />
             </div>
