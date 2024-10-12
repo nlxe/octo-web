@@ -25,7 +25,7 @@
                     user="Green"
                     image="/tweets/green.webp"
                     content="We can't wait for you to join our world and explore what we've built, full of creativity and challenges. Stay tuned for more updates and get ready to forge your adventure!"
-                    href="https://x.com/runyasak/status/1797618641648968117"
+                    href=""
                 />
             </div>
             <div class="flex flex-col gap-3">
@@ -41,7 +41,7 @@
                     user="Unknown"
                     image="/tweets/unknown.webp"
                     content="This is a great game, I will choose Blockman Forge over Blockman GO!"
-                    href="https://x.com/shlomiatar/status/1822381556142362734"
+                    href=""
                 />
             </div>
             <div class="flex flex-col gap-3 lg:mt-6">
@@ -50,14 +50,14 @@
                     user="Zvyne"
                     image="/tweets/zvyne.webp"
                     content="Blockman Forge is a step ahead of tradition. Here, you can experience real cross-culture between Minecraft and Blockmango. I'm glad to be an early friend of this lovely mission, supporting this journey !"
-                    href="https://x.com/htmx_org/status/1792949584769224897"
+                    href=""
                 />
                 <Tweet
                     id="notendyet"
                     user="Marko"
                     image="/tweets/marko.webp"
                     content="Blockman Forge is a step ahead of tradition. Here, you can experience real cross-culture between Minecraft and Blockmango. I'm glad to be an early friend of this lovely mission, supporting this journey !"
-                    href="https://x.com/htmx_org/status/1792949584769224897"
+                    href=""
                 />
             </div>
         </section>
