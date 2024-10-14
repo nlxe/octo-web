@@ -1,5 +1,5 @@
 ---
-title: devlog
+title: Download
 layout: page
 sidebar: false
 editLink: false

@@ -13,8 +13,8 @@ export default defineConfig({
     lastUpdated: true,
     markdown: {
         theme: {
-            light: 'github-light',
-            dark: 'github-dark'
+            dark: 'github-dark',
+            light: 'github-light'
         },
         codeTransformers: [transformerTwoslash()]
     },
@@ -83,12 +83,24 @@ export default defineConfig({
         logo: '/assets/moonsveil.png',
         nav: [
             {
+                text: 'Home',
+                link: '/'
+            },
+            {
                 text: 'Devlog',
                 link: '/devlog'
             },
             {
                 text: 'Download',
                 link: '/download'
+            },
+            {
+                text: 'Gratitude List',
+                link: '/gratitude-list'
+            },
+            {
+                text: 'Terms Of Service',
+                link: '/tos'
             },
             {
                 text: 'Donation',

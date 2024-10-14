@@ -5,15 +5,15 @@ sidebar: false
 head:
     - - meta
       - property: 'og:title'
-        content: Blockman Forge
+        content: 'Blockman Forge'
 
     - - meta
       - name: 'description'
-        content: 'Better GameFlow for Players'
+        content: 'Better GameFlow for Players. Blockman Go but Community Driven, better security, and exceptional player experience.'
 
     - - meta
       - property: 'og:description'
-        content: 'Better GameFlow for Players'
+        content: 'Better GameFlow for Players. Blockman Go but Community Driven, better security, and exceptional player experience.'
     
     - - meta
       - property: 'og:image'

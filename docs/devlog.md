@@ -1,5 +1,5 @@
 ---
-title: devlog
+title: DevLog
 layout: page
 sidebar: false
 editLink: false

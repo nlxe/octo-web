@@ -32,7 +32,7 @@
                     user="Wayne"
                     image="/tweets/wayne.webp"
                     content="Blockman Go Forge is better than Ultra Go because it offers enhanced modding capabilities and greater creative freedom for players"
-                    href=""
+                    href="https://guns.lol/wayn3"
                 />
             </div>
             <div class="flex flex-col gap-3">
@@ -62,7 +62,7 @@
                     user="R4man"
                     image="/tweets/uno-raman.webp"
                     content="I love blockman forge becasue the modern design and gameplay just catches my (and my friend's) eye! The customization options allow for freedom and creativity, the mascots and UI are interesting to say the least. This version is just BETTER than blockman go and i will switch over to Blockman Forge!"
-                    href=""
+                    href="https://rneo.neocities.org"
                 />
             </div>
             <div class="flex flex-col gap-3 lg:mt-6">
@@ -88,8 +88,8 @@
                     href=""
                 />
                 <Tweet
-                    id="ryu"
-                    user="despacitospiderr"
+                    id="despacitospiderr"
+                    user="Ryu"
                     image="/tweets/ryu.webp"
                     content="Blockman Forge is a game with its own aesthetic. The game is very good looking if you ask me, the game is very stable and virus-free. Overall I would prefer Blockman Forge rather than the other BG private servers."
                     href=""
