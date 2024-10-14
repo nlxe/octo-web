@@ -1,5 +1,5 @@
 <template>
-  <link rel="preload" as="image" href="/assets/hero.png" />
+  <link rel="preload" as="image" href="/assets/discord-hero.png" fetchpriority="high"/>
   <Ray class="h-[60vh] -top-16 pointer-events-none opacity-[.35] dark:opacity-50" />
   <div id="splash" class="pointer-events-none absolute top-[-70vh] max-w-full justify-center w-full h-screen opacity-25 block gradient"></div>
 

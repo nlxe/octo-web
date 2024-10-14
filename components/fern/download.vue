@@ -1,4 +1,8 @@
 <template>
+    <link rel="preload" as="image" href="/assets/android.png" fetchpriority="high"/>
+    <link rel="preload" as="image" href="/assets/windows.png" fetchpriority="high"/>
+    <link rel="preload" as="image" href="/assets/ios.png" fetchpriority="high"/>
+
     <Ray class="h-[30vh] -top-16 -inset-0 left-0 opacity-30 dark:opacity-[.55] pointer-events-none" />
     
     <header class="flex flex-col justify-center items-center max-w-3xl gap-3 w-full mx-auto pt-20 pb-4">
