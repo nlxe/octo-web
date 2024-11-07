@@ -49,11 +49,11 @@ const members = [
         image: '/tweets/zvyne.webp'
     },
     {
-        id: 'developer',
-        name: 'Green',
-        role: '[ Jr Developer ]',
-        message: 'Excited for what’s to come in Blockman Forge!',
-        image: '/tweets/green.webp'
+        id: 'executive',
+        name: 'Nlxe',
+        role: '[ Project Executive ]',
+        message: 'Can\'t sleep tonight; we are preparing for the future in Blockman Forge!',
+        image: '/tweets/neluxe.webp'
     },
     {
         id: 'moderator',

@@ -21,11 +21,11 @@
                     href="https://guns.lol/rchyx"
                 />
                 <Tweet
-                    id="greenbmgo"
-                    user="Green"
-                    image="/tweets/green.webp"
-                    content="We can't wait for you to join our world and explore what we've built, full of creativity and challenges. Stay tuned for more updates and get ready to forge your adventure!"
-                    href="https://guns.lol/greenbmgo"
+                    id="neluxe"
+                    user="Nlxe"
+                    image="/tweets/neluxe.webp"
+                    content="It's time to start new gaming series, new amazing stuffs that you still didn't see them."
+                    href="https://guns.lol/nlxe"
                 />
                 <Tweet
                     id="wynedeutxsch"
@@ -73,13 +73,7 @@
                     content="Blockman forge is at times getting difficulties but still preserving which is making it quite an impeccable team and we also drive to add stuff which quite literally will astonish you by having better security,game play and more"
                     href=""
                 />
-                <Tweet
-                    id="comicxall"
-                    user="Comical"
-                    image="/tweets/comical.webp"
-                    content="Playing Blockman Forge makes me feel like I'm part of the history of the old Blockman Go, which has ended."
-                    href=""
-                />
+                
                 <Tweet
                     id="notendyet"
                     user="Marko"
